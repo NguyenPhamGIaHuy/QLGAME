@@ -1,0 +1,7 @@
+D:\C#\Game(OOP)\QLGAME\QLGAME\bin\Debug\QLGAME.exe.config
+D:\C#\Game(OOP)\QLGAME\QLGAME\bin\Debug\QLGAME.exe
+D:\C#\Game(OOP)\QLGAME\QLGAME\bin\Debug\QLGAME.pdb
+D:\C#\Game(OOP)\QLGAME\QLGAME\obj\Debug\QLGAME.csproj.AssemblyReference.cache
+D:\C#\Game(OOP)\QLGAME\QLGAME\obj\Debug\QLGAME.csproj.CoreCompileInputs.cache
+D:\C#\Game(OOP)\QLGAME\QLGAME\obj\Debug\QLGAME.exe
+D:\C#\Game(OOP)\QLGAME\QLGAME\obj\Debug\QLGAME.pdb
